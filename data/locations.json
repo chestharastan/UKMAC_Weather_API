@@ -1,0 +1,26 @@
+[
+  {
+    "id": "phnom-penh",
+    "name": "Phnom Penh",
+    "latitude": 11.5564,
+    "longitude": 104.9282,
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "updatedAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "kampot-farm",
+    "name": "Kampot Farm",
+    "latitude": 10.6104,
+    "longitude": 104.1815,
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "updatedAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "siem-reap",
+    "name": "Siem Reap",
+    "latitude": 13.3671,
+    "longitude": 103.8448,
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "updatedAt": "2026-09-04T00:00:00.000Z"
+  }
+]
