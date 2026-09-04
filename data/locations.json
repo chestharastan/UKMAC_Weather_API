@@ -18,9 +18,25 @@
   {
     "id": "siem-reap",
     "name": "Siem Reap",
-    "latitude": 13.3671,
-    "longitude": 103.8448,
+    "latitude": 13.366865,
+    "longitude": 103.953823,
     "createdAt": "2026-09-04T00:00:00.000Z",
-    "updatedAt": "2026-09-04T00:00:00.000Z"
+    "updatedAt": "2026-09-04T05:06:00.424477+00:00"
+  },
+  {
+    "id": "streng-treng",
+    "name": "Streng Treng",
+    "latitude": 13.685107,
+    "longitude": 106.208278,
+    "createdAt": "2026-09-04T05:00:26.215418+00:00",
+    "updatedAt": "2026-09-04T05:00:26.215418+00:00"
+  },
+  {
+    "id": "pursat",
+    "name": "Pursat",
+    "latitude": 12.140874,
+    "longitude": 104.084852,
+    "createdAt": "2026-09-04T05:00:26.222630+00:00",
+    "updatedAt": "2026-09-04T05:00:26.222630+00:00"
   }
 ]

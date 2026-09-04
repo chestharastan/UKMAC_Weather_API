@@ -16,6 +16,11 @@ class Settings:
         "OPEN_METEO_BASE_URL",
         "https://api.open-meteo.com/v1/forecast",
     )
+    open_meteo_archive_url: str = os.getenv(
+        "OPEN_METEO_ARCHIVE_URL",
+        "https://archive-api.open-meteo.com/v1/archive",
+    )
+    weather_sync_interval_minutes: int = int(os.getenv("WEATHER_SYNC_INTERVAL_MINUTES", "45"))
     cors_origins: list[str] = [
         origin.strip()
         for origin in os.getenv(
